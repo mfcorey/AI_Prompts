@@ -1,2 +1,10 @@
 Here are some example prompts that I am using: 
 
+**Writing Email**
+Convert [text] into [tone] email. Keep the email simple, concise and Insert place holders.
+
+Text = [Insert here]
+
+Tone = [Insert here]
+*********************
+
