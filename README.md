@@ -1,11 +1,13 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://icons8.com/icon/80449/internet">
 
 <!-- TABLE OF CONTENTS -->
-<details><summary>Table of Contents 3</summary>
-      <li><a href="#who-are-you">Who Are You?</a>
-      <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
-      <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
-      <li><a href="#roadmap">Road Map</a></li></details>
+<details>
+      <summary>Table of Contents 3</summary>
+            <li><a href="#who-are-you">Who Are You?</a>
+            <li><a href="#anyone-can-do-this">Anyone Can Do This</a>
+            <li><a href="#roles-within-infosec">Roles Within InfoSec</a>
+            <li><a href="#roadmap">Road Map</a></li>
+</details>
 
 # Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome GitHub Wikis
