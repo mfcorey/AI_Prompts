@@ -1,3 +1,8 @@
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
+
 # Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome GitHub Wikis
 
