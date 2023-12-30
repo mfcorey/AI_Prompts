@@ -1,4 +1,4 @@
-<details open>
+<details>
   <summary>Hello</summary>
   World!
 </details>
