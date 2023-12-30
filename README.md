@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="https://icons8.com/icon/80449/internet">
+
 <!-- TABLE OF CONTENTS -->
 <details>
     <summary>Table of Contents 3</summary>
